@@ -9,3 +9,7 @@ def main():
     print("C")
     print("E")
     print("B")
+
+def ui_fix():
+    print("UI fixed")
+    print("D")
