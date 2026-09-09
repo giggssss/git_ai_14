@@ -15,3 +15,7 @@ def main():
 
 def login():
     print("Login function")
+
+def payment():
+    print("Payment function")
+    
