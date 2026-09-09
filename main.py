@@ -3,7 +3,7 @@ print("for profile")
 print("C")
 print("E")
 
-def main_ui_fix():
+def main_main():
     print("Main function")
     print("for profile")
     print("C")
