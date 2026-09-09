@@ -3,6 +3,7 @@ print("for profile")
 print("C")
 print("E")
 print("9")
+print("10")
 
 def main():
     print("Main function")
