@@ -10,3 +10,7 @@ def main():
     print("E")
     print("B")
     print("C")
+
+def ui_fix():
+    print("UI fixed")
+    print("for profile")
