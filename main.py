@@ -8,3 +8,4 @@ def main():
     print("for profile")
     print("C")
     print("E")
+    print("B")
