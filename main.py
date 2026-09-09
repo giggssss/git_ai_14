@@ -16,6 +16,9 @@ def main():
 def login():
     print("Login function")
 
+def login2():
+    print("Login2 function")
+
 def payment():
     print("Payment function")
     
