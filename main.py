@@ -9,3 +9,4 @@ def main():
     print("C")
     print("E")
     print("B")
+    print("C")
