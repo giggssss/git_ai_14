@@ -13,3 +13,5 @@ def main():
     print("B")
     print("C")
 
+def login():
+    print("Login function")
