@@ -13,3 +13,6 @@ def main():
     print("B")
     print("C")
 
+def payment():
+    print("Payment function")
+    
